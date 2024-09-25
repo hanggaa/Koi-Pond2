@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Koi-Pond2/static/css/main.e6c13ad2.css",
+    "main.js": "/Koi-Pond2/static/js/main.ce9944b7.js",
+    "static/js/529.19a6a28d.chunk.js": "/Koi-Pond2/static/js/529.19a6a28d.chunk.js",
+    "index.html": "/Koi-Pond2/index.html",
+    "main.e6c13ad2.css.map": "/Koi-Pond2/static/css/main.e6c13ad2.css.map",
+    "main.ce9944b7.js.map": "/Koi-Pond2/static/js/main.ce9944b7.js.map",
+    "529.19a6a28d.chunk.js.map": "/Koi-Pond2/static/js/529.19a6a28d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ce9944b7.js"
+  ]
+}
